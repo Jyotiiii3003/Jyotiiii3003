@@ -14,6 +14,15 @@
 * 🎯 Goal: Become a skilled Software Engineer
 
 ---
+## 📫 Reach Me
+- 📧 Email: jyotimiishra2003@gmail.com   
+
+---
+
+## ⚡ Fun Fact  
+I enjoy vibe coding more than actual coding 😄
+
+---
 
 ## 🛠️ Tech Stack
 
