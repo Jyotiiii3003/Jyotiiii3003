@@ -14,8 +14,8 @@
 * 🎯 Goal: Become a skilled Software Engineer
 
 ---
-## 📫 Reach Me
-- 📧 Email: jyotimiishra2003@gmail.com   
+## 📫 Reach Me: jyotimiishra2003@gmail.com   
+## 🌐 Portfolio: https://jyoti-ten.vercel.app/
 
 ---
 
