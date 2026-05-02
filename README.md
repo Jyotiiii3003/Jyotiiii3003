@@ -20,7 +20,7 @@
 ---
 
 ## ⚡ Fun Fact  
-I enjoy vibe coding more than actual coding 😄
+⚡ Fun Fact: I do more vibe coding than actual coding… and somehow it still works 😄
 
 ---
 
