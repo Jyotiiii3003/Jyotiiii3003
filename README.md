@@ -53,11 +53,14 @@
 * 🎨 Clean UI using Tailwind + React
 * ⚡ Backend integration in progress
 
+🔗 **Live Demo:** (https://safe-route-ai-zeta.vercel.app/)
+💻 **GitHub Repo:** https://github.com/jyotiiii3003/Safe-route-ai
+
 ---
 
 ## 📊 GitHub Stats
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotiiii3003\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jyotiiii3003&show_icons=true&theme=tokyonight)
 
 ---
 
