@@ -53,7 +53,7 @@
 * 🧠 Personalized learning experience
 * 🎨 Clean UI using Tailwind + React
 * ⚡ Backend integration in progress
-
+💻 **GitHub Repo:** https://github.com/Jyotiiii3003/PrepBuddy
 
 
 ---
