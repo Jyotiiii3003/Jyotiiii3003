@@ -46,6 +46,7 @@
 * 🎯 Focused on real-world safety impact
 
 🔗 **Live Demo:** (https://safe-route-ai-zeta.vercel.app/)
+
 💻 **GitHub Repo:** https://github.com/jyotiiii3003/Safe-route-ai
 
 ### 📚 AI-Powered Learning Platform *(Currently Building)*
