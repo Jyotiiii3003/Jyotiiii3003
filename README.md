@@ -27,24 +27,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-* ![C](https://skillicons.dev/icons?i=c) C
-* ![C++](https://skillicons.dev/icons?i=cpp) C++
-* ![Java](https://skillicons.dev/icons?i=java) Java
-* ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,javascript&perline=10)](https://skillicons.dev)
 
 ### 🎨 Frontend
-
-* ![HTML](https://skillicons.dev/icons?i=html) HTML
-* ![CSS](https://skillicons.dev/icons?i=css) CSS
-* ![Tailwind](https://skillicons.dev/icons?i=tailwind) Tailwind CSS
-* ![React](https://skillicons.dev/icons?i=react) React.js
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react&perline=10)](https://skillicons.dev)
 
 ### ⚙️ Backend / Tools
-
-* ![Firebase](https://skillicons.dev/icons?i=firebase) Firebase
-* ![Supabase](https://skillicons.dev/icons?i=supabase) Supabase
-* ![Git](https://skillicons.dev/icons?i=git) Git
+[![Tools](https://skillicons.dev/icons?i=firebase,supabase,git&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -56,14 +45,16 @@
 * ⚡ Built using modern web technologies
 * 🎯 Focused on real-world safety impact
 
+🔗 **Live Demo:** (https://safe-route-ai-zeta.vercel.app/)
+💻 **GitHub Repo:** https://github.com/jyotiiii3003/Safe-route-ai
+
 ### 📚 AI-Powered Learning Platform *(Currently Building)*
 
 * 🧠 Personalized learning experience
 * 🎨 Clean UI using Tailwind + React
 * ⚡ Backend integration in progress
 
-🔗 **Live Demo:** (https://safe-route-ai-zeta.vercel.app/)
-💻 **GitHub Repo:** https://github.com/jyotiiii3003/Safe-route-ai
+
 
 ---
 
