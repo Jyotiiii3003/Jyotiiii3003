@@ -64,9 +64,9 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ## 📊 GitHub Stats
 
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jyotiiii3003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=b7e4c7&border_color=2d6a4f)](https://github.com/jyotiiii3003)
+[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jyotiiii3003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=b7e4c7&border_color=2d6a4f&cache_seconds=1800)](https://github.com/jyotiiii3003)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jyotiiii3003&theme=tokyonight&background=0d1117&ring=52b788&fire=74c69d&currStreakLabel=52b788)](https://github.com/jyotiiii3003)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jyotiiii3003&theme=tokyonight&background=0d1117&ring=52b788&fire=74c69d&currStreakLabel=52b788&cache_seconds=1800)](https://github.com/jyotiiii3003)
 
 ---
 
