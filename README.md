@@ -107,11 +107,3 @@ I'm a **Web Developer** passionate about building real-world applications that c
 <!-- Footer Banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a4a2e,100:0f2027&height=120&section=footer&text=Building%20Code%20that%20Creates%20Impact&fontSize=20&fontColor=b7e4c7&fontAlignY=65)
 
-## 📈 Contribution Activity
-
-[![Jyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotiiii3003&bg_color=0d1117&color=52b788&line=2d6a4f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a4a2e,100:0f2027&height=120&section=footer&text=Building%20Code%20that%20Creates%20Impact&fontSize=20&fontColor=b7e4c7&fontAlignY=65)
