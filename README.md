@@ -77,13 +77,8 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotiiii3003&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyotiiii3003&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotiiii3003&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jyotiiii3003&theme=github_dark&utcOffset=5.5" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotiiii3003&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyotiiii3003&theme=github_dark)
 
 ---
 
