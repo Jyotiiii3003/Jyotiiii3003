@@ -78,13 +78,11 @@ I'm a **Web Developer** passionate about building real-world applications that c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyotiiii3003&show_icons=true&theme=transparent&hide_border=true&title_color=52b788&text_color=b7e4c7&icon_color=74c69d&bg_color=00000000" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiiii3003&theme=transparent&hide_border=true&stroke=52b788&ring=74c69d&fire=95d5b2&currStreakLabel=52b788&background=00000000" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com?user=Jyotiiii3003&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 ---
