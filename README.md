@@ -77,10 +77,15 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ## 📊 GitHub Stats
 
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jyotiiii3003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=b7e4c7&border_color=2d6a4f&cache_seconds=0&v=1)](https://github.com/jyotiiii3003)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyotiiii3003&show_icons=true&theme=transparent&hide_border=true&title_color=52b788&text_color=b7e4c7&icon_color=74c69d&bg_color=00000000" height="170"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jyotiiii3003&theme=tokyonight&background=0d1117&ring=52b788&fire=74c69d&currStreakLabel=52b788&cache_seconds=0&v=1)](https://github.com/jyotiiii3003)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiiii3003&theme=transparent&hide_border=true&stroke=52b788&ring=74c69d&fire=95d5b2&currStreakLabel=52b788&background=00000000" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark"/>
+</p>
 ---
 
 ## 🗂️ Language Breakdown
