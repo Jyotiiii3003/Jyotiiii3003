@@ -1,3 +1,5 @@
+# Hi, I'm Jyoti Mishra 👋
+
 <!-- Header Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a2e,100:2d6a4f&height=200&section=header&text=Hi,%20I'm%20Jyoti%20Mishra%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20write%20code%20—%20I%20build%20things%20that%20matter.&descAlignY=58&descSize=18&descColor=b7e4c7)
 
@@ -14,6 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-jyoti--ten.vercel.app-2d6a4f?style=for-the-badge&logo=vercel&logoColor=white)](https://jyoti-ten.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jyotiiii3003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotiiii3003)
 ![](https://komarev.com/ghpvc/?username=Jyotiiii3003&style=for-the-badge&color=brightgreen)
+
 ---
 
 ## 🧠 About Me
@@ -42,13 +45,14 @@ I'm a **Web Developer** passionate about building real-world applications that c
 [![Tools](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,git&perline=10)](https://skillicons.dev)
 
 ---
+
 ## 📁 My Repositories
 
 ### 🛡️ Safe Route AI
 > Safe navigation system for women using modern web tech
-> 
-> ![React](https://img.shields.io/badge/React-52b788?style=flat-square&logo=react&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-2d6a4f?style=flat-square&logo=firebase&logoColor=white)![Tailwind](https://img.shields.io/badge/Tailwind-40916c?style=flat-square&logo=tailwind-css&logoColor=white)
-> 
+>
+> ![React](https://img.shields.io/badge/React-52b788?style=flat-square&logo=react&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-2d6a4f?style=flat-square&logo=firebase&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-40916c?style=flat-square&logo=tailwind-css&logoColor=white)
+>
 > [🔗 Live Demo](https://safe-route-ai-zeta.vercel.app/) &nbsp;·&nbsp; [💻 GitHub](https://github.com/jyotiiii3003/Safe-route-ai)
 
 ---
@@ -73,13 +77,14 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 [![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jyotiiii3003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=b7e4c7&border_color=2d6a4f&cache_seconds=0&v=1)](https://github.com/jyotiiii3003)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jyotiiii3003&theme=tokyonight&background=0d1117&ring=52b788&fire=74c69d&currStreakLabel=52b788&cache_seconds=0&v=1)](https://github.com/jyotiiii3003)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotiiii3003&theme=github_dark)
+
 ---
 
 ## 🏆 GitHub Trophies
