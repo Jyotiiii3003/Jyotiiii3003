@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-jyotimiishra2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotimiishra2003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jyoti--ten.vercel.app-2d6a4f?style=for-the-badge&logo=vercel&logoColor=white)](https://jyoti-ten.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jyotiiii3003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotiiii3003)
-![](https://komarev.com/ghpvc/?username=Jyotiiii3003&style=for-the-badge&color=purple)
+![](https://komarev.com/ghpvc/?username=Jyotiiii3003&style=for-the-badge&color=brightgreen)
 ---
 
 ## 🧠 About Me
