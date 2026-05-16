@@ -77,8 +77,18 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotiiii3003&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyotiiii3003&theme=github_dark)
+[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jyotiiii3003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=b7e4c7&border_color=2d6a4f&cache_seconds=0&v=1)](https://github.com/jyotiiii3003)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jyotiiii3003&theme=tokyonight&background=0d1117&ring=52b788&fire=74c69d&currStreakLabel=52b788&cache_seconds=0&v=1)](https://github.com/jyotiiii3003)
+
+---
+
+## 🗂️ Language Breakdown
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotiiii3003&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyotiiii3003&theme=github_dark" alt="Most Commit Language" />
+</p>
 
 ---
 
@@ -87,6 +97,15 @@ I'm a **Web Developer** passionate about building real-world applications that c
 [![trophy](https://github-profile-trophy.vercel.app/?username=jyotiiii3003&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+## 📈 Contribution Activity
+
+[![Jyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotiiii3003&bg_color=0d1117&color=52b788&line=2d6a4f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a4a2e,100:0f2027&height=120&section=footer&text=Building%20Code%20that%20Creates%20Impact&fontSize=20&fontColor=b7e4c7&fontAlignY=65)
 
 ## 📈 Contribution Activity
 
