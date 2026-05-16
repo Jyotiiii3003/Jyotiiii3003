@@ -39,7 +39,7 @@ I'm a **Web Developer** passionate about building real-world applications that c
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react&perline=10)](https://skillicons.dev)
 
 ### ⚙️ Backend / Tools
-[![Tools](https://skillicons.dev/icons?i=firebase,supabase,git&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,git&perline=10)](https://skillicons.dev)
 
 ---
 ## 📁 My Repositories
@@ -77,6 +77,9 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jyotiiii3003&theme=tokyonight&background=0d1117&ring=52b788&fire=74c69d&currStreakLabel=52b788&cache_seconds=0&v=1)](https://github.com/jyotiiii3003)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotiiii3003&theme=github_dark)
 ---
 
 ## 🏆 GitHub Trophies
