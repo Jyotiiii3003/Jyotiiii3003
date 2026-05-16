@@ -53,6 +53,15 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ---
 
+### 🧠 IntelliNote
+> AI-powered learning platform that transforms PDFs and YouTube videos into interactive lessons with quizzes, mind maps, AI tutoring, lesson saving, and PDF export.
+>
+> ![React](https://img.shields.io/badge/React-52b788?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-2d6a4f?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-40916c?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1b4332?style=flat-square&logo=mongodb&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-74c69d?style=flat-square&logo=google-gemini&logoColor=white)
+>
+> [🔗 Live Demo](https://intelli-notee.vercel.app/) &nbsp;·&nbsp; [💻 GitHub](https://github.com/Jyotiiii3003/IntelliNotee)
+
+---
+
 ### 🤖 PrepBuddy *(In Progress)*
 > AI-powered personalized learning platform
 >
