@@ -78,11 +78,11 @@ I'm a **Web Developer** passionate about building real-world applications that c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyotiiii3003&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jyotiiii3003&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Jyotiiii3003&theme=tokyonight" />
 </p>
 
 ---
@@ -90,8 +90,8 @@ I'm a **Web Developer** passionate about building real-world applications that c
 ## 🗂️ Language Breakdown
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotiiii3003&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyotiiii3003&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotiiii3003&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyotiiii3003&theme=github_dark" />
 </p>
 
 ---
