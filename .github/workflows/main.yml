@@ -1,0 +1,14 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs every day at midnight
+  workflow_dispatch:       # lets you run it manually too
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: README is up to date
+        run: echo "Stats auto-refresh via third-party services"
