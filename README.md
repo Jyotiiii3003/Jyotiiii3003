@@ -87,15 +87,6 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ---
 
-## 🗂️ Language Breakdown
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotiiii3003&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyotiiii3003&theme=github_dark" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jyotiiii3003&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
