@@ -89,7 +89,12 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jyotiiii3003&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Jyotiiii3003&theme=onedark&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
