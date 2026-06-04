@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-> *"I do more vibe coding than actual coding… and somehow it still works 😄"*
+> *"I do more vibe coding than actual coding… and somehow it still works"*
 
 I'm a **Web Developer** passionate about building real-world applications that create impact. I sit at the intersection of clean code, great UX, and meaningful products , turning ideas into things people actually use.
 
