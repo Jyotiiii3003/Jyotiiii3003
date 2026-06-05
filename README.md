@@ -27,7 +27,6 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 - 🎓 **Student** exploring full-stack development
 - 🛡️ **Built:** Safe Navigation System for Women
-- 🤖 **Currently Building:** AI-powered Learning Platform
 - 🧠 **Strong in:** Data Structures & Problem Solving (Java)
 - 🎯 **Goal:** Become a skilled Software Engineer who ships things that matter
 
