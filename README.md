@@ -86,14 +86,6 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jyotiiii3003&theme=onedark&t=1" />
-    alt="GitHub Trophies"
-</p>
-
----
 
 ## 📈 Contribution Activity
 
