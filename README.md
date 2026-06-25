@@ -65,7 +65,7 @@ I'm a **Web Developer** passionate about building real-world applications that c
 
 ---
 
-### 🤖 PrepBuddy *(In Progress)*
+### 🤖 PrepBuddy 
 > AI-powered personalized learning platform
 >
 > ![React](https://img.shields.io/badge/React-52b788?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-40916c?style=flat-square&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-2d6a4f?style=flat-square&logo=supabase&logoColor=white)
